@@ -1,7 +1,7 @@
 /*
 The tool is written and distributed by "esfelurm"
 any copying without mentioning the source will be prosecuted (lol  @_@).
-Telegram and Github: @esfelurm
+Telegram and Github: @MrEsfelurm
 */
 package main
 
@@ -211,7 +211,7 @@ func main() {
                        :*%%%####*=. #@.           
                       :%#-          =*            
                       %@.           ::            
-                     :@#  Email Bomber / Tg&Git: @esfelurm                        
+                     :@#  Email Bomber / Tg&Git: @MrEsfelurm                        
                   :--=@+:--.                      
                 +%@@#-+-*@@@%:                    
                 %.:=+*****##%+                    
